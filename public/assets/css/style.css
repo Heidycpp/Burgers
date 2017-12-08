@@ -1,0 +1,73 @@
+body {
+	background-color: #f9a98c;	
+}
+
+h1, h2 {
+	font-family: 'Cabin Sketch', cursive;	
+}
+
+.headPic {
+	padding: 10px;
+	width: 50%;
+	margin: 0 auto;
+}
+
+.img-responsive {
+    margin: 0 auto;
+}
+
+.tabTtitle {
+	background-color: #730d10;
+}
+
+.middle {
+	margin: 50px;
+}
+
+.menu {
+	background-color: #606e99;
+	border-color: #cc0404;
+	border-width: 10px;
+	border-style: solid;
+	color: white;
+	width: 40%;
+	padding: 10px;
+}
+
+.table {
+	background-color: #b2a903;
+	color: white;
+	width: 40%;
+	padding: 10px;
+}
+
+.leftside {
+	float: left;
+}
+
+.rightside {
+	float: right;
+}
+
+.addBurger {
+	clear: both;
+	margin-top: 20px;
+}
+
+ul {
+	list-style-type: none;
+	font-family: 'Cabin Sketch', cursive;
+	font-size: 24px;
+	margin: auto;
+}
+
+.eachBurger {
+	color: black;
+	margin: 10px;
+	border-radius: 30px;
+	background-color: #e08472;
+	width: 300px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: black;
+}
